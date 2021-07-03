@@ -4,9 +4,10 @@ THIS FOLDER ALSO CONTAINS THE DOCKER FILE FOR SPRING.
 CONTAINERIZE AND RUN IN PORT 8080 TO USE THE SERVER.
 ALSO, USES A MYSQL CONTAINER AS THE DATABASE.
 
-If you want to run the entire project as logically split containerized microservices, feel free to pull the images from my dockerhub acc. They're public repos.
+If you want to run the entire project as logically split containerized microservices, feel free to pull the images from my dockerhub acc. 
+They're public repos.
 
-Run the follwing commands to run the server as containers: 
+Run the following commands to run the server as containers: 
 
 First, create a custom docker network using the command:
  
