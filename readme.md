@@ -10,7 +10,7 @@ YOUR TERMINAL SHOULD LOOK LIKE THIS:
  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124347995-18907680-dc05-11eb-96b7-2e758f7d765c.png">
  
  
- <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124348221-5641cf00-dc06-11eb-861e-93e865ecf299.png">
+ <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124348270-9acd6a80-dc06-11eb-86c7-c520fde08beb.png">
 
  
  
